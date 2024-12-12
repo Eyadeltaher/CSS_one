@@ -16,11 +16,15 @@ margin: 0px 65px 0px 65px;
 
 a {
 text-decoration: none;
-cursor: not-allowed;
+cursor: pointer;
+display: block;
+width: 500px;
+height: 500px;
+font-size: 30px;
 }
 
 a :hover{
 
-color: #283618;
-font-size: xx-large;
+color: #0015ff;
+font-size: 60px;
 }
