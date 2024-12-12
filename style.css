@@ -1,0 +1,26 @@
+body {
+    /* background-color: #fefae0; */
+    background-image: linear-gradient(to bottom,#fefae0,#dda15e);
+    height: 750px;
+}
+
+p {
+color: rgb(132, 230, 52);
+background-color: #283618;
+font-size: 50px;
+text-align: center ;
+border-radius: 200px;
+padding: 5px;
+margin: 0px 65px 0px 65px;
+}
+
+a {
+text-decoration: none;
+cursor: not-allowed;
+}
+
+a :hover{
+
+color: #283618;
+font-size: xx-large;
+}
